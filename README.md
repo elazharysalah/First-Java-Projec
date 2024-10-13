@@ -1,2 +1,3 @@
-# First-Java-Projec
-the first java project week 2
+# Java challanges
+challange week 1 **available*
+challange week 2 **available*
